@@ -8,7 +8,7 @@ for(var i=1; i<= 15; i++){
 	$patterns += '</li>'; 
 }
 
-$color = ["green","blue","ocean","pink","orange","purple","red"];
+$color = ["blue","green","ocean","pink","orange","purple","red"];
 $colors = "";
 for(var i=0; i<$color.length; i++){
 	$img = 	"images/style-picker/"+$color[i]+".jpg";	
@@ -45,7 +45,7 @@ $str += '		</ul>';
 $str += '	</div>';
 $str += '</div><!-- **Ultimate Style Picker Wrapper - End** -->';
 jQuery(document).ready(function($){
-	$("body > div.wrapper").before($str);
+	$("").before($str);
 	$picker_container = $("div.delicate-style-picker-wrapper");
 	
 	//Applying Cookies

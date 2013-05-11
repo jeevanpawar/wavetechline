@@ -323,7 +323,7 @@
 	.social-icons li img:first-child { bottom:-29px; }
 	.social-icons li:hover img:first-child { bottom:0px; z-index:1;  }
 	.social-icons li:hover img:last-child { bottom:-29px; }	
-	
+
 	#logo { margin:35px 0px 0px; float:left; padding:0px; }
 	#logo img { max-width:100%; }
 	#logo h2 { margin:0px; }
