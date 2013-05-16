@@ -499,7 +499,7 @@
 		/*----*****---- << Portfolio >> ----*****----*/
 		
 		.sorting-container { float:left; clear:both; margin:0px 0px 30px; padding:0px; width:100%; }
-		.sorting-container a { font-size:14px; line-height:36px; color:#333334; padding:0px 15px; background:#ededed; margin:0px 10px 10px 0px; float:left; border-bottom:2px solid #d9d9d9; position:relative; }
+		.sorting-container a { font-size:26px; line-height:42px; color:#333334; padding:0px 15px; background:#ededed; margin:0px 10px 10px 0px; float:left; border-bottom:2px solid #d9d9d9; position:relative; }
 		.sorting-container a:after { border-bottom:1px solid #ffffff; position:absolute; bottom:0px; left:0px; content:''; width:100%; }
 		.sorting-container a:hover, .sorting-container a.active-sort { font-weight:bold; color:#ffffff; }
 		
@@ -696,9 +696,9 @@
 		
 		.entry-details h4 { margin-bottom:5px; }
 		.entry-metadata { margin-bottom:10px; }
-		.entry-metadata span { font-size:14px; color:#939393; }
+		.entry-metadata span { font-size:34px; color:#939393; }
 		.entry-metadata div { margin-bottom:5px; clear:both; width:100%; } 
-		.entry-metadata a { font-size:14px; color:#333334; }
+		.entry-metadata a { font-size:24px; color:#333334; }
 		
 		.entry-body .read-more, .entry-body .read-more span { color:#333334; }
 		
