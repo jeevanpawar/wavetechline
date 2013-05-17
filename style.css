@@ -806,7 +806,7 @@
 		#contact-form textarea { width:97%; }
 		
 		.two-third #contact-form input[type="text"], .two-third #contact-form input[type="email"] { width:90.4%; margin-bottom:20px;  }		
-		.two-third #contact-form textarea { width:95.4%; height:214px; }
+		.two-third #contact-form textarea { width:95.4%; height:414px; }
 		
 		.fullwidth-map { width:100%; margin:-20px 0px 20px; padding:0px; float:left; clear:both; }
 		.fullwidth-map #map { height:488px; }
@@ -889,3 +889,102 @@
 		
 		.style-picker-ico { position:absolute; top:25px; left:225px; }
 		
+.overview
+{
+ margin-left:309px;	
+}
+.year1
+{
+ margin-left:306px;	
+}
+.director1
+{
+margin-left:350px;
+margin-top:40px;
+}
+.director2
+{
+margin-left:600px;
+margin-top:-140px;
+}
+.team1
+{
+margin-left:350px;
+margin-top:40px;
+}
+.team2
+{
+margin-left:570px;
+margin-top:-140px;
+}
+.team3
+{
+margin-left:770px;
+margin-top:-140px;
+}
+.team4
+{
+margin-left:350px;
+margin-top:60px;
+}
+.team5
+{
+margin-left:570px;
+margin-top:-140px;
+}
+.team6
+{
+margin-left:790px;
+margin-top:-140px;
+}
+.b1
+{
+	margin-left:400px;
+	margin-top:-10px;
+}
+.b2
+{
+	margin-left:400px;
+	margin-top:-5px;
+}
+.b3
+{
+	margin-left:400px;
+	margin-top:-3px;
+}
+.b4
+{
+	margin-left:400px;
+	margin-top:-3px;
+}
+.b5
+{
+	margin-left:400px;
+	margin-top:-5px;
+}
+.b6
+{
+	margin-left:400px;
+	margin-top:-5px;
+}
+.bpo
+{
+	margin-top:200px;
+	margin-left:20px;
+}
+.img
+{
+margin-left:300px;	
+}
+.scm
+{
+	margin-left:320px;
+	margin-top:-20px;
+}
+.capability
+{
+   width:275px;
+   height:5px;
+   margin-left:780px;
+   margin-top:-530px;
+}
