@@ -152,8 +152,8 @@
 	.toggle-frame h5.toggle, .toggle-frame h5.toggle-accordion { padding:0px; }	
 		
 	.faq h5.toggle-accordion { padding:0px 0px 0px 42px; margin-bottom:13px; line-height:35px; }	
-	.faq h5.toggle-accordion:before { font-family:'Lato', sans-serif; content:'?'; background:#333334; width:27px; height:27px; text-align:center; line-height:27px; color:#ffffff; border:3px solid #d9d9d9; border-radius:27px; }
-	.faq h5.toggle-accordion.active:before { content:'?'; }
+	.faq h5.toggle-accordion:before { font-family:'Lato', sans-serif; content:'•'; background:#333334; width:27px; height:27px; text-align:center; line-height:27px; color:#ffffff; border:3px solid #d9d9d9; border-radius:27px; }
+	.faq h5.toggle-accordion.active:before { content:'•'; }
 	.faq .toggle-content { padding:0px 0px 10px; margin-left:42px; }
 	
 	/*----*****---- << Horizontal Tabs >> ----*****----*/
